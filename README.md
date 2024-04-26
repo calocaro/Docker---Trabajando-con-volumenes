@@ -24,7 +24,7 @@ Esta práctica consiste en una serie de tareas que debes seguir utilizando Docke
         - Utiliza bind mount para montar el directorio 'htdocs' del Apache en un directorio que elijas.
         - Utiliza `-v "$PWD"/htdocs:/usr/local/apache2/htdocs/`
         
-    - Realiza un 'Hola Mundo' en HTML y comprueba desde el navegador que se accede correctamente.
+    - Realizamos un 'Hola Mundo' en HTML y comprobamos desde el navegador que se accede correctamente.
 
 3. **Creación de un contenedor 'asir_web1'**
 
